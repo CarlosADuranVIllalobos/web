@@ -10,3 +10,9 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+numpy
+scikit-learn
+seaborn
+ipywidgets
+jupyter_contrib_nbextensions
+widgetsnbextension
